@@ -20,3 +20,5 @@ See docs/ for the full step-by-step report with screenshots.
 
 ## Notes
 Secrets in app.py are placeholders. Auto Scaling (bonus) was not completed due to the account's vCPU limit.# AWS-3-Tier-Architecture---Project-01
+
+End****
